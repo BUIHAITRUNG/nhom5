@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel bai9.html"
+    "dev": "parcel bai9.html",
+    "build": "parcel build bai9.html"
   },
   "keywords": [],
   "author": "",
