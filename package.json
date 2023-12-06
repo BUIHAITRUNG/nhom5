@@ -2,7 +2,7 @@
   "name": "buoi9",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bai9.html",
   "scripts": {
     "dev": "parcel bai9.html",
     "build": "parcel build bai9.html"
